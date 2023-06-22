@@ -1,0 +1,4 @@
+# python -m pip install -r ./dev-requirements.txt
+click
+jira
+jinja2
